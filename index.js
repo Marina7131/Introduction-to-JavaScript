@@ -1,24 +1,40 @@
 /************************************************************** Task 1: Warm-up! **************************************************************/
 //Task a: declare a variable called votingAge, console log true if age > 18 (no function required)
+ 
+let votingAge = 6;
 
+console.log(votingAge > 18);
 
 
 
 
 //Task b: declare a variable and then use a conditional to change the value of that variable based on the value assigned to a second variable (no function required)
 
-
+var myName = 6;
+    if (myName > 8) {
+    console.log (myName)
+    } else {
+       console.log ("nameIsTooLow")
+    }
 
 
 
 //Task c: Convert string ("1999") to integer (1999)  (no function required) // hint look up the Number method
 
-
+var a = parseInt("1999");
 
 
 
 //Task d: Write a function to multiply a*b 
 
+function myFunction(p1, p2) {
+    return p1 * p2
+}
+
+
+git config --global user.email "marina.pharis@gmail.com"
+git config --global user.name "Marina7131"
+myFunction (5,5);
 
 
 
