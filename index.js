@@ -23,7 +23,7 @@ var myName = 6;
 
 var a = parseInt("1999");
 
-
+TextDecoderStream.push
 
 //Task d: Write a function to multiply a*b 
 
