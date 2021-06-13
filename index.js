@@ -32,8 +32,7 @@ function myFunction(p1, p2) {
 }
 
 
-git config --global user.email "marina.pharis@gmail.com"
-git config --global user.name "Marina7131"
+
 myFunction (5,5);
 
 
